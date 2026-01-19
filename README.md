@@ -1,64 +1,65 @@
-🏨 Hotel Booking Demand Analysis
-📌 Project Overview
+# 🏨 Hotel Booking Demand Analysis
+
+## 📌 Project Overview
 
 The Hotel Booking Demand Analysis project focuses on understanding booking patterns, cancellations, guest behavior, and room demand using real-world hotel booking data.
 The dashboard provides actionable insights into seasonality, cancellation trends, market segments, and customer loyalty, helping hotels plan better pricing, inventory, and marketing strategies.
 
 This project combines traditional hospitality metrics with modern data visualization techniques for informed decision-making.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
-Analyze hotel booking demand and trends
+- Analyze hotel booking demand and trends
 
-Identify cancellation patterns by month and market segment
+- Identify cancellation patterns by month and market segment
 
-Study weekday vs weekend stay behavior
+- Study weekday vs weekend stay behavior
 
-Understand repeat guest distribution by country
+- Understand repeat guest distribution by country
 
-Evaluate room demand stability
+- Evaluate room demand stability
 
-Support better operational and revenue planning
+- Support better operational and revenue planning
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-Power BI – Data modeling, DAX & interactive dashboards
+- Power BI – Data modeling, DAX & interactive dashboards
 
-Python – Data cleaning & preprocessing (if required)
+- Python – Data cleaning & preprocessing (if required)
 
-CSV / MS Excel – Dataset storage and inspection
+- CSV / MS Excel – Dataset storage and inspection
 
-📊 Key KPIs & Insights
+## 📊 Key KPIs & Insights
 
-Total Cancellations: 13K
+- Total Cancellations: 13K
 
-Repeated Guests: 4K
+- Repeated Guests: 4K
 
-Total Week Night Stays: 299K
+- Total Week Night Stays: 299K
 
-Visual Insights Include:
+- Visual Insights Include:
 
-📅 Cancellation count by arrival month
+## 📅 Cancellation count by arrival month
 
-📈 Weeknight vs weekend stay trends
+- 📈 Weeknight vs weekend stay trends
 
-🧑‍💼 Cancellation rate by market segment
+- 🧑‍💼 Cancellation rate by market segment
 
-🌍 Repetitive guests by country
+- 🌍 Repetitive guests by country
 
-🛏️ Room demand stability analysis
+- 🛏️ Room demand stability analysis
 
-🗂️ Dataset Information
+## 🗂️ Dataset Information
 
-Source: Hotel Booking Demand Dataset (Kaggle)
+- Source: Hotel Booking Demand Dataset (Kaggle)
 
-File: hotel_bookings.csv
+- File: hotel_bookings.csv
 
-Data Type: Booking, customer, and stay details
+- Data Type: Booking, customer, and stay details
 
-Usage: Educational & analytical purposes only
+- Usage: Educational & analytical purposes only
 
-Project Structure
+##  Project Structure
 
 Hotel-Booking-Demand-Analysis/
 │
@@ -73,30 +74,30 @@ Hotel-Booking-Demand-Analysis/
 │
 └── README.md
 
-🚀 How to Use the Project
+## 🚀 How to Use the Project
 
--Clone or download the repository
+- Clone or download the repository
 
--Install Power BI Desktop
+- Install Power BI Desktop
 
--Open Hotel Booking Demand Analysis.pbix
+- Open Hotel Booking Demand Analysis.pbix
 
--Refresh the dataset if required
+- Refresh the dataset if required
 
--Use filters (Hotel, Country, Month) to explore insights
+- Use filters (Hotel, Country, Month) to explore insights
 
-📘 Learning Outcomes
+## 📘 Learning Outcomes
 
--Practical experience with hospitality analytics
+- Practical experience with hospitality analytics
 
--Strong understanding of booking & cancellation behavior
+- Strong understanding of booking & cancellation behavior
 
--Hands-on Power BI dashboard development
+- Hands-on Power BI dashboard development
 
--Improved data storytelling & business insight skills
+- Improved data storytelling & business insight skills
 
 <img width="1218" height="681" alt="Screenshot 2026-01-17 095730" src="https://github.com/user-attachments/assets/973c062b-900a-4a75-8b98-20d581d5e479" />
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates how hotel booking data can be transformed into clear operational and strategic insights.
